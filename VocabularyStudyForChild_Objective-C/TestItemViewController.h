@@ -25,7 +25,7 @@
 @property (nonatomic) NSString* user_answer;
 @property (nonatomic) NSString* collect_answer;
 
-@property (weak, nonatomic) IBOutlet UITextView* itemTextView;
+@property (weak, nonatomic) IBOutlet UITextView *itemTextView;
 @property (weak, nonatomic) IBOutlet UIImageView* itemImageView;
 @property (weak, nonatomic) IBOutlet UILabel* itemTitleLabel;
 @property (weak, nonatomic) IBOutlet UIButton* goTestButton;

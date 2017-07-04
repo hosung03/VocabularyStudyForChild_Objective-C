@@ -2,8 +2,8 @@
 //  main.m
 //  VocabularyStudyForChild_Objective-C
 //
-//  Created by Mac on 2016. 8. 6..
-//  Copyright © 2016년 Hosung, Lee. All rights reserved.
+//  Created by mac on 2017. 7. 4..
+//  Copyright © 2017년 hosung. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>

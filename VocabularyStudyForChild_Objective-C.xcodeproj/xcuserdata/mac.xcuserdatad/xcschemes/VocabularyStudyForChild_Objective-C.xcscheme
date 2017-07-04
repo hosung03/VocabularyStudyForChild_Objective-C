@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0730"
+   LastUpgradeVersion = "0830"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "04AB69EB1D5646C8006F51EA"
+               BlueprintIdentifier = "043F84071F0BCEE100B91081"
                BuildableName = "VocabularyStudyForChild_Objective-C.app"
                BlueprintName = "VocabularyStudyForChild_Objective-C"
                ReferencedContainer = "container:VocabularyStudyForChild_Objective-C.xcodeproj">
@@ -32,7 +32,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "04AB69EB1D5646C8006F51EA"
+            BlueprintIdentifier = "043F84071F0BCEE100B91081"
             BuildableName = "VocabularyStudyForChild_Objective-C.app"
             BlueprintName = "VocabularyStudyForChild_Objective-C"
             ReferencedContainer = "container:VocabularyStudyForChild_Objective-C.xcodeproj">
@@ -55,7 +55,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "04AB69EB1D5646C8006F51EA"
+            BlueprintIdentifier = "043F84071F0BCEE100B91081"
             BuildableName = "VocabularyStudyForChild_Objective-C.app"
             BlueprintName = "VocabularyStudyForChild_Objective-C"
             ReferencedContainer = "container:VocabularyStudyForChild_Objective-C.xcodeproj">
@@ -74,7 +74,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "04AB69EB1D5646C8006F51EA"
+            BlueprintIdentifier = "043F84071F0BCEE100B91081"
             BuildableName = "VocabularyStudyForChild_Objective-C.app"
             BlueprintName = "VocabularyStudyForChild_Objective-C"
             ReferencedContainer = "container:VocabularyStudyForChild_Objective-C.xcodeproj">
